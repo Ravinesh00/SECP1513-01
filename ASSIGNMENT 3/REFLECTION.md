@@ -22,22 +22,3 @@ In addition to technical skills, emphasis should be placed on developing social 
 
 Feel free to explore the content of this repository to enhance your professional development journey.
 
-## Getting Started
-
-1. Clone this repository to your local machine:
-
-    ```bash
-    git clone https://github.com/your-username/professional-development-repo.git
-    ```
-
-2. Explore the content and adapt it to your needs.
-
-3. Share your own insights and experiences by contributing to this repository.
-
-## Contribution Guidelines
-
-We encourage contributions! If you have valuable insights or tips to share, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
