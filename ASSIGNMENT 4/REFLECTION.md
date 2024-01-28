@@ -6,8 +6,6 @@ honesty about challenges, such as data limitations and rejection of venture capi
 The goal is to promote sustainability, reduce food waste, and strengthen the connection
 between people and their food sources.
 
-Author: Your Name
-"""
 
 class AgricultureInnovation:
     def __init__(self, data_limitations=True, reject_venture_capital=True):
@@ -26,9 +24,6 @@ class AgricultureInnovation:
     def strengthen_connection(self):
         print("Strengthening connection between people and their food sources")
 
-def main():
-    # Create an instance of AgricultureInnovation
-    innovation_instance = AgricultureInnovation()
 
     # Display information about challenges and rejection of venture capital
     print("Data Limitations:", innovation_instance.data_limitations)
